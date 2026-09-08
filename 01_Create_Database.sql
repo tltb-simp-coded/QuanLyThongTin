@@ -1,6 +1,6 @@
 -- ============================================================
 -- FILE    : 01_Create_Database.sql
--- MÔN     : IE103.Q22 - Quản lý Thông tin
+-- MÔN     : IE103 - Quản lý Thông tin
 -- ĐỀ TÀI : Hệ thống Quản lý Bệnh viện
 -- PHẦN    : Tạo CSDL + Bảng + Triggers
 -- THỰC HIỆN: Nhóm (Dương Lê + Trần Lê Thiên Bảo)
