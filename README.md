@@ -1,6 +1,6 @@
 # 🏥 Hệ Thống Quản Lý Bệnh Viện
 
-> **Môn học:** IE103.Q22 — Quản lý Thông tin
+> **Môn học:** IE103 — Quản lý Thông tin
 > **Trường:** Trường Đại học Công nghệ Thông tin — ĐHQG TP.HCM
 
 ---
