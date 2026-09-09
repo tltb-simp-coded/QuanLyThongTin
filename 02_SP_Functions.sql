@@ -1,6 +1,6 @@
 -- ============================================================
 -- FILE    : SP_Functions.sql
--- MÔN     : IE103 - Quản lý Thông tin
+-- MÔN     : IE103.Q22 - Quản lý Thông tin
 -- ĐỀ TÀI : Hệ thống Quản lý Bệnh viện
 -- PHẦN    : Stored Procedures + Functions
 -- THỰC HIỆN: Trần Lê Thiên Bảo
